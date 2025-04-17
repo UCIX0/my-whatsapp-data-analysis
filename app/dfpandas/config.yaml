@@ -1,0 +1,65 @@
+skip_keys:
+- ENCRYPTION
+- MESSAGE_DELETED
+- MULTIMEDIA_OMITTED
+- STICKER_OMITTED
+- YOU_DELETED
+- IMAGE_OMITTED
+- VIDEO_OMITTED
+- AUDIO_OMITTED
+- DOCUMENT_OMITTED
+- LOCATION_OMITTED
+- CONTACT_CARD_OMITTED
+- VOICE_MESSAGE_OMITTED
+- SHARED_CONTACT_CARD_OMITTED
+- SHARED_LOCATION_OMITTED
+- SHARED_MULTIMEDIA_OMITTED
+
+skip_messages:
+  ENCRYPTION:
+    es: Los mensajes y las llamadas están cifrados de extremo a extremo. Solo las
+      personas en este chat pueden leerlos, escucharlos o compartirlos.
+    en: Messages and calls are end-to-end encrypted. Only people in this chat can
+      read, listen to, or share them.
+  MESSAGE_DELETED:
+    es: Se eliminó este mensaje.
+    en: This message was deleted.
+  MULTIMEDIA_OMITTED:
+    es: <Multimedia omitido>
+    en: <Multimedia omitted>
+  STICKER_OMITTED:
+    es: sticker omitido
+    en: sticker omitted
+  YOU_DELETED:
+    es: Eliminaste este mensaje
+    en: You have deleted this message
+  IMAGE_OMITTED:
+    es: imagen omitida
+    en: image omitted
+  VIDEO_OMITTED:
+    es: video omitido
+    en: video omitted
+  AUDIO_OMITTED:
+    es: audio omitido
+    en: audio omitted
+  DOCUMENT_OMITTED:
+    es: documento omitido
+    en: document omitted
+  LOCATION_OMITTED:
+    es: ubicación omitida
+    en: location omitted
+  CONTACT_CARD_OMITTED:
+    es: tarjeta de contacto omitida
+    en: contact card omitted
+  VOICE_MESSAGE_OMITTED:
+    es: mensaje de voz omitido
+    en: voice message omitted
+  SHARED_CONTACT_CARD_OMITTED:
+    es: tarjeta de contacto compartida omitida
+    en: shared contact card omitted
+  SHARED_LOCATION_OMITTED:
+    es: ubicación compartida omitida
+    en: shared location omitted
+  SHARED_MULTIMEDIA_OMITTED:
+    es: contenido multimedia compartido omitido
+    en: shared multimedia omitted
